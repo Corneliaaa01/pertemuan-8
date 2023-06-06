@@ -1,0 +1,15 @@
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Pemograman Sem 2\Inheritance\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
